@@ -1,0 +1,46 @@
+/* style.css */
+
+/* Change font and font size */
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    color: #faf7f7;
+}
+
+/* Customize the primary color (buttons, radio buttons) */
+.css-1v0mbdj.edgvbvh10 {
+    background-color: #6b4dd6;
+}
+
+/* Customize the sidebar background color */
+.css-1d391kg {
+    background-color: #ffffff;
+}
+
+/* Customize the text color in the sidebar */
+.css-qrbaxs {
+    color: #333333;
+}
+
+/* Customize the main background color */
+.css-12ttj6m {
+    background-color: #f5f5f5;
+}
+
+/* Customize button appearance */
+.stButton button {
+    background-color: #6c63ff;
+    color: white;
+    font-weight: bold;
+}
+
+/* Add padding and style to headings */
+h1, h2, h3, h4 , h5, h6{
+    color: #6c63ff;
+    padding-bottom: 10px;
+}
+
+/* Add hover effects to buttons */
+.stButton button:hover {
+    background-color: #5145cd;
+}
